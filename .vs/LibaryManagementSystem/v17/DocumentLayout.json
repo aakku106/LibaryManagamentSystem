@@ -1,0 +1,122 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\seva\\source\\repos\\LibaryManagementSystem\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F97B7EC6-3F45-425E-857D-8D863CEE4C59}|LibaryManagementSystem\\LibaryManagementSystem.csproj|c:\\users\\seva\\source\\repos\\libarymanagementsystem\\libarymanagementsystem\\functions\\bookmethod.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F97B7EC6-3F45-425E-857D-8D863CEE4C59}|LibaryManagementSystem\\LibaryManagementSystem.csproj|solutionrelative:libarymanagementsystem\\functions\\bookmethod.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F97B7EC6-3F45-425E-857D-8D863CEE4C59}|LibaryManagementSystem\\LibaryManagementSystem.csproj|C:\\Users\\seva\\source\\repos\\LibaryManagementSystem\\libarymanagementsystem\\db\\booklist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F97B7EC6-3F45-425E-857D-8D863CEE4C59}|LibaryManagementSystem\\LibaryManagementSystem.csproj|solutionrelative:libarymanagementsystem\\db\\booklist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F97B7EC6-3F45-425E-857D-8D863CEE4C59}|LibaryManagementSystem\\LibaryManagementSystem.csproj|c:\\users\\seva\\source\\repos\\libarymanagementsystem\\libarymanagementsystem\\model\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F97B7EC6-3F45-425E-857D-8D863CEE4C59}|LibaryManagementSystem\\LibaryManagementSystem.csproj|solutionrelative:libarymanagementsystem\\model\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F97B7EC6-3F45-425E-857D-8D863CEE4C59}|LibaryManagementSystem\\LibaryManagementSystem.csproj|c:\\users\\seva\\source\\repos\\libarymanagementsystem\\libarymanagementsystem\\db\\studentlist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F97B7EC6-3F45-425E-857D-8D863CEE4C59}|LibaryManagementSystem\\LibaryManagementSystem.csproj|solutionrelative:libarymanagementsystem\\db\\studentlist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F97B7EC6-3F45-425E-857D-8D863CEE4C59}|LibaryManagementSystem\\LibaryManagementSystem.csproj|c:\\users\\seva\\source\\repos\\libarymanagementsystem\\libarymanagementsystem\\model\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F97B7EC6-3F45-425E-857D-8D863CEE4C59}|LibaryManagementSystem\\LibaryManagementSystem.csproj|solutionrelative:libarymanagementsystem\\model\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F97B7EC6-3F45-425E-857D-8D863CEE4C59}|LibaryManagementSystem\\LibaryManagementSystem.csproj|C:\\Users\\seva\\source\\repos\\LibaryManagementSystem\\libarymanagementsystem\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F97B7EC6-3F45-425E-857D-8D863CEE4C59}|LibaryManagementSystem\\LibaryManagementSystem.csproj|solutionrelative:libarymanagementsystem\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\seva\\source\\repos\\LibaryManagementSystem\\LibaryManagementSystem\\Program.cs",
+              "RelativeDocumentMoniker": "LibaryManagementSystem\\Program.cs",
+              "ToolTip": "C:\\Users\\seva\\source\\repos\\LibaryManagementSystem\\LibaryManagementSystem\\Program.cs",
+              "RelativeToolTip": "LibaryManagementSystem\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-14T07:16:26.082Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Student.cs",
+              "DocumentMoniker": "C:\\Users\\seva\\source\\repos\\LibaryManagementSystem\\LibaryManagementSystem\\MODEL\\Student.cs",
+              "RelativeDocumentMoniker": "LibaryManagementSystem\\MODEL\\Student.cs",
+              "ToolTip": "C:\\Users\\seva\\source\\repos\\LibaryManagementSystem\\LibaryManagementSystem\\MODEL\\Student.cs",
+              "RelativeToolTip": "LibaryManagementSystem\\MODEL\\Student.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAzAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-20T07:22:17.084Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "StudentList.cs",
+              "DocumentMoniker": "C:\\Users\\seva\\source\\repos\\LibaryManagementSystem\\LibaryManagementSystem\\DB\\StudentList.cs",
+              "RelativeDocumentMoniker": "LibaryManagementSystem\\DB\\StudentList.cs",
+              "ToolTip": "C:\\Users\\seva\\source\\repos\\LibaryManagementSystem\\LibaryManagementSystem\\DB\\StudentList.cs",
+              "RelativeToolTip": "LibaryManagementSystem\\DB\\StudentList.cs",
+              "ViewState": "AQIAAAEAAAAAAAAAAAAAwBIAAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-20T07:06:48.22Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "BookMethod.cs",
+              "DocumentMoniker": "C:\\Users\\seva\\source\\repos\\LibaryManagementSystem\\LibaryManagementSystem\\Functions\\BookMethod.cs",
+              "RelativeDocumentMoniker": "LibaryManagementSystem\\Functions\\BookMethod.cs",
+              "ToolTip": "C:\\Users\\seva\\source\\repos\\LibaryManagementSystem\\LibaryManagementSystem\\Functions\\BookMethod.cs",
+              "RelativeToolTip": "LibaryManagementSystem\\Functions\\BookMethod.cs",
+              "ViewState": "AQIAACEAAAAAAAAAAAAQwDAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-14T07:52:05.005Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "BookList.cs",
+              "DocumentMoniker": "C:\\Users\\seva\\source\\repos\\LibaryManagementSystem\\LibaryManagementSystem\\DB\\BookList.cs",
+              "RelativeDocumentMoniker": "LibaryManagementSystem\\DB\\BookList.cs",
+              "ToolTip": "C:\\Users\\seva\\source\\repos\\LibaryManagementSystem\\LibaryManagementSystem\\DB\\BookList.cs",
+              "RelativeToolTip": "LibaryManagementSystem\\DB\\BookList.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAA4AAABpAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-14T08:39:50.104Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Book.cs",
+              "DocumentMoniker": "C:\\Users\\seva\\source\\repos\\LibaryManagementSystem\\LibaryManagementSystem\\MODEL\\Book.cs",
+              "RelativeDocumentMoniker": "LibaryManagementSystem\\MODEL\\Book.cs",
+              "ToolTip": "C:\\Users\\seva\\source\\repos\\LibaryManagementSystem\\LibaryManagementSystem\\MODEL\\Book.cs",
+              "RelativeToolTip": "LibaryManagementSystem\\MODEL\\Book.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-14T07:17:54.414Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
