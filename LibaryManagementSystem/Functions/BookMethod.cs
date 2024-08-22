@@ -1,6 +1,7 @@
 ﻿using LibaryManagementSystem.DB;
 using System;
 using System.Collections.Generic;
+using System.Diagnostics;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
@@ -31,10 +32,11 @@ namespace LibaryManagementSystem.Functions
             {
                 Console.WriteLine(book.Title + " " + book.Author + " " + book.Code + " " + book.Price + " " + book.Edition + " " + book.IsAvaible);
             }
+            //Console.WriteLine(Book);
         }
         public static void BorrowBook(Book book)
         {
-            Console.WriteLine("Enter the book code");
+            Console.WriteLine("|    Enter the book code");
             string code = Console.ReadLine();
             foreach (var b in BookList.books)
             {
@@ -44,26 +46,64 @@ namespace LibaryManagementSystem.Functions
                     break;
                 }
             }
-            Console.WriteLine("enter student id ");
+            Console.WriteLine("|    enter student id ");
             int id = int.Parse(Console.ReadLine());
 
             if (book.IsAvaible)
             {
-                Console.WriteLine("Book is not available");
+                Console.WriteLine("|    Book is not available");
             }
             else
             {
-                Console.WriteLine("Book is available");
+                Console.WriteLine("|    Book is Borrowed");
+                book.IsAvaible = true;
+
             }
         }
 
         public static void BookReturn(Book book)
         {
+            Console.WriteLine("|    Enter the book code");
+            string code = Console.ReadLine();
+            foreach (var b in BookList.books)
+            {
+                if (b.Code == code)
+                {
+                    book = b;
+                    break;
+                }
+            }
+           
+
+            if (book.IsAvaible)
+            {
+                Console.WriteLine("|    Book is Returned");
+                book.IsAvaible = false;
+            }
+            else
+            {
+                Console.WriteLine("|    Error 404: book rakhni thau not found...");
+
+            }
 
         }
         public static void AddBook()
         {
-            Console.WriteLine();
+            Console.WriteLine("|    Enter the book title");
+            string title = Console.ReadLine();
+            Console.WriteLine("|    Enter the book author");
+            string author = Console.ReadLine();
+            Console.WriteLine("|    Enter the book code");
+            string code = Console.ReadLine();
+            Console.WriteLine("|    Enter the book price");
+            double price = double.Parse(Console.ReadLine());
+            Console.WriteLine("|    Enter the book edition");
+            int edition = int.Parse(Console.ReadLine());
+            BookList.books.Add(new Book(title, author, code, price, edition));
+            Console.WriteLine("|    Book added successfully");
+
+
+
         }
         public void WelcomeMsg()
         {
@@ -93,10 +133,10 @@ namespace LibaryManagementSystem.Functions
                         AddBook();
                         break;
                     case 5:
-                        Console.WriteLine("Thank you for using the CCN Library Management System");
+                        Console.WriteLine("|    Thank you for using the CCN Library Management System");
                         break;
                     default:
-                        Console.WriteLine("Invalid option");
+                        Console.WriteLine("|    Invalid option");
                         break;
                 }
 

@@ -5,3 +5,10 @@ C:\Users\seva\source\repos\LibaryManagementSystem\LibaryManagementSystem\obj\Deb
 C:\Users\seva\source\repos\LibaryManagementSystem\LibaryManagementSystem\obj\Debug\LibaryManagementSystem.csproj.CoreCompileInputs.cache
 C:\Users\seva\source\repos\LibaryManagementSystem\LibaryManagementSystem\obj\Debug\LibaryManagementSystem.exe
 C:\Users\seva\source\repos\LibaryManagementSystem\LibaryManagementSystem\obj\Debug\LibaryManagementSystem.pdb
+C:\Users\seva\source\repos\LibaryManagamentSystem\LibaryManagementSystem\bin\Debug\LibaryManagementSystem.exe.config
+C:\Users\seva\source\repos\LibaryManagamentSystem\LibaryManagementSystem\bin\Debug\LibaryManagementSystem.exe
+C:\Users\seva\source\repos\LibaryManagamentSystem\LibaryManagementSystem\bin\Debug\LibaryManagementSystem.pdb
+C:\Users\seva\source\repos\LibaryManagamentSystem\LibaryManagementSystem\obj\Debug\LibaryManagementSystem.csproj.AssemblyReference.cache
+C:\Users\seva\source\repos\LibaryManagamentSystem\LibaryManagementSystem\obj\Debug\LibaryManagementSystem.csproj.CoreCompileInputs.cache
+C:\Users\seva\source\repos\LibaryManagamentSystem\LibaryManagementSystem\obj\Debug\LibaryManagementSystem.exe
+C:\Users\seva\source\repos\LibaryManagamentSystem\LibaryManagementSystem\obj\Debug\LibaryManagementSystem.pdb
